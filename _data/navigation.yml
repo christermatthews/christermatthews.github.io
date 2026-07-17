@@ -1,0 +1,30 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Career"
+    url: /career-history/
+
+  - title: "Leadership"
+    url: /career-achievements/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Investigations"
+    url: /investigations/
+
+  - title: "Training"
+    url: /training/
+
+  - title: "Credentials"
+    url: /certifications/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Contact"
+    url: /contact/
