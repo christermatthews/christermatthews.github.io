@@ -1,0 +1,17 @@
+title: Christer Matthews
+description: Executive Public Safety and Security Leadership Portfolio
+url: "https://christermatthews.github.io"
+baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: default
+
+author:
+  name: "Christer Matthews"
+  bio: "Executive public safety leader with military, municipal law enforcement, homeland security, investigations, training, and operational command experience."
+  location: "North Texas"
