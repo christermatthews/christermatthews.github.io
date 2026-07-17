@@ -1,2 +1,2 @@
-# Investigations
-My investigations go here.
+# Major Investigations
+My major investigations go here.
