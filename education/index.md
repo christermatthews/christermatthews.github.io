@@ -1,2 +1,4 @@
-# Education
-My education goes here.
+---
+title: "Education and Leadership Development"
+permalink: /education/
+---
