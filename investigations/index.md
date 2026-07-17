@@ -1,2 +1,4 @@
-# Major Investigations
-My major investigations go here.
+---
+title: "Major Investigations"
+permalink: /investigations/
+---
