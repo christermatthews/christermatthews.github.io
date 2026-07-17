@@ -1,3 +1,5 @@
-# Contact Information
-
-My contact information goes here.
+---
+title: "Contact"
+permalink: /contact/
+toc: false
+---
