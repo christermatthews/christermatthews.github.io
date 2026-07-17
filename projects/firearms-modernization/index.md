@@ -161,6 +161,18 @@ This section will eventually include:
 
 ---
 
+## My Role
+
+Served as Training Lieutenant and Chair of the Firearms Committee responsible for:
+
+- Coordinating handgun evaluations
+- Leading committee discussions
+- Developing recommendation criteria
+- Presenting recommendations to executive leadership
+- Planning implementation
+
+---
+
 # Photo Gallery
 
 Photographs of evaluation events, testing, and approved equipment will be added as appropriate.
