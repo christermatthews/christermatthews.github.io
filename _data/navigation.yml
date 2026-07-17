@@ -5,11 +5,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Career"
-    url: /career-history/
-
   - title: "Leadership"
-    url: /career-achievements/
+    url: /leadership/
 
   - title: "Projects"
     url: /projects/
@@ -17,11 +14,20 @@ main:
   - title: "Investigations"
     url: /investigations/
 
+  - title: "Work Products"
+    url: /documents/
+
   - title: "Training"
     url: /training/
 
   - title: "Credentials"
     url: /certifications/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Resume"
     url: /resume/
