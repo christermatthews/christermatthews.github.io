@@ -1,3 +1,4 @@
-# Training
-
-My training goes here.
+---
+title: "Instructor and Training Experience"
+permalink: /training/
+---
