@@ -1,3 +1,4 @@
-# Awards
-
-My awards and decorations go here.
+---
+title: "Awards and Decorations"
+permalink: /awards/
+---
