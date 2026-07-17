@@ -2,6 +2,8 @@
 layout: splash
 title: "Christer Matthews"
 permalink: /
+author_profile: false
+toc: false
 header:
   overlay_color: "#1f2933"
   overlay_filter: "0.35"
