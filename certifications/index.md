@@ -1,3 +1,4 @@
-# Certifications
-
-My certifications go here.
+---
+title: "Professional Certifications"
+permalink: /certifications/
+---
