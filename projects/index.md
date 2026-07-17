@@ -1,3 +1,4 @@
-# Projects
-
-My projects go here.
+---
+title: "Strategic Projects"
+permalink: /projects/
+---
