@@ -173,6 +173,20 @@ Coming Soon
 
 ---
 
+## My Role
+
+Served as the Public Order Team Commander responsible for:
+
+- Establishing the team
+- Recruiting personnel
+- Developing training schedules
+- Coordinating equipment selection
+- Managing implementation
+- Leading recurring monthly training
+- Coordinating regional interoperability efforts
+
+---
+
 # Photo Gallery
 
 Coming Soon
