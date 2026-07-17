@@ -157,16 +157,21 @@ Organizations that regularly engage with public safety partners, review emergenc
 
 ---
 
-# Supporting Documents
+# Supporting Resources
 
-Future additions:
+The Faith-Based Security Initiative incorporated nationally recognized preparedness resources and best practices from federal, state, and regional partners.
 
-- Faith-Based Security Presentations
-- Tabletop Exercise Guides
-- Emergency Planning Templates
-- Security Assessment Checklists
-- Executive Briefings
-- Community Resource Guides
+Examples include:
+
+- Cybersecurity and Infrastructure Security Agency (CISA) guidance
+- Federal Emergency Management Agency (FEMA) preparedness resources
+- Department of Homeland Security (DHS) security publications
+- FBI active shooter and threat awareness resources
+- Texas Department of Public Safety guidance
+- North Central Texas Fusion Center intelligence products
+- Regional emergency management planning resources
+
+The value of the initiative was not creating new publications, but identifying credible resources, adapting them to local needs, and helping community organizations implement practical preparedness measures through training, consultation, and collaborative planning.
 
 ---
 
