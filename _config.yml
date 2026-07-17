@@ -1,17 +1,99 @@
-title: Christer Matthews
-description: Executive Public Safety and Security Leadership Portfolio
+title: "Christer Matthews"
+description: "Executive Public Safety and Security Leadership Portfolio"
+
 url: "https://christermatthews.github.io"
 baseurl: ""
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+
+repository: "christermatthews/christermatthews.github.io"
 
 author:
   name: "Christer Matthews"
+  avatar: "/assets/images/christer-matthews-headshot.jpg"
   bio: "Executive public safety leader with military, municipal law enforcement, homeland security, investigations, training, and operational command experience."
   location: "North Texas"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/christer-matthews-b697131a5
+
+"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:usmalumni@gmail.com"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/christer-matthews-b697131a5
+
+"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:usmalumni@gmail.com"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+  - scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+  - scope:
+      path: "investigations"
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+  - scope:
+      path: "documents"
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+  - scope:
+      path: "training"
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
