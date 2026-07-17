@@ -1,3 +1,9 @@
-# Leadership Philosophy
+---
+title: "Leadership and Career Achievements"
+permalink: /leadership/
+---
+## Executive Expertise
 
-My leadership philosophy goes here.
+## Career Achievements
+
+## Career History
